@@ -1,0 +1,47 @@
+Week - 2 Task :
+What if Analysis
+Scenario Manager
+
+Problem Statement :
+We have 4 regions with 1000s of Customers and few Sub Categories. We need to know which Single Sub Category 
+we need to promote in what region to achieve 25% more sales.
+
+Let's learn the basics of What-If Analysis with Goal Seek and Scenario Manager.
+
+
+What actually task includes:
+What if Analysis : Its give you missing number to achieve target.
+Scenario Manager : Create different scenario if any value is too high too low moderate etc than how things look upon.
+
+Week- 1 Story findings :
+Continuation to that so that how can we increase our business.
+Profit is too low compare to sale.
+If we give discount above 30% makes loss.
+Sales CAGR and AAGR is too low
+few product is in top 5 by sales still makes loss .
+In segment vs category home office is making loss.
+In subcategory 3 product are making loss.
+Top 15 loss making states.
+Bottom 15 least sale making states.
+Shipping time scheduled vs actual taken days 4 and 5 is actually taking 6 days.
+
+DataSet to be used :
+What if and goal seek :
+Profit is too low compare to sale.
+Sales CAGR and AAGR is too low.
+few product is in top 5 by sales still makes loss .
+In segment vs category home office is making loss.
+Top 15 loss making states.
+Bottom 15 least sale making states.
+
+Scenario manager :
+If we give discount above 30% makes loss.
+Sales CAGR and AAGR is too low
+Top 15 loss making states.
+Bottom 15 least sale making states.
+
+Story behind Data :
+
+
+
+Analysis benifit of Data :
